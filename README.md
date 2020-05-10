@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## React fundamental referesh
+
+This project was intentd to refresh knowledge on React js with its new features. This was done as a part of following Samer Bruna's course on ReactJS on pluralsight
 
 ## Available Scripts
 
